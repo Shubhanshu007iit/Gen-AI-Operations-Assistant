@@ -2,13 +2,6 @@
 
 ## 24-Hour GenAI Intern Assignment – AI Operations Assistant
 
-## Setup Instructions to Run Locally (localhost)
-
-1. Clone the repository and move into the project directory:
-```bash
-git clone <your-repository-url>
-cd ai_ops_assistant
-
 ## 🎯 Objective
 
 Build an AI system that:
@@ -68,6 +61,13 @@ The system is designed using three agents:
   - View final verified response
 
 ---
+
+## Setup Instructions to Run Locally (localhost)
+
+1. Clone the repository and move into the project directory:
+```bash
+git clone <your-repository-url>
+cd ai_ops_assistant
 
 ## 📁 Project Structure
 
